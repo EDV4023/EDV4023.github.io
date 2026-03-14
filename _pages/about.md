@@ -25,14 +25,17 @@ I was honored with...
 - The Best Presentation & Idea award in WildHacks 2026. 
 - The Impact Award in Shady Hacks 2024
 - 3rd place in Hack the Ram 2024
-In 2022-2025, I completed 4 different science fair projects in PRSEF, PJAS, and DRSEF. 
+In 2022-2025, I completed 4 different science fair projects in PRSEF, PJAS, and DRSEF.
+--- 
 - In 2022, I was awarded 1st place in the junior physics category at PRSEF
 - In 2023: 2nd place in the senior physics category at PRSEF and 1st Place at PJAS
 - In 2024 3rd place in the senior behavioral science category and 1st in PJAS, as well as a perfect score and the director's award, the highest possible distinction. 
-In my 2024 & 2025 projects, I specifically focused on computer science and machine learning:
+In my 2024 & 2025 projects, I specifically focused on computer science and machine learning
+---
 - In 2024, my project involved the use of python to construct a model to predict sleep length based on screen usage
 - In 2025, I utilized CNN architecture to accurately predict deepfakes. 
 In 2023 & 2024, I was the captain of my FLL robotics team in which my team and I constructed a robot to complete tasks in an allotted time and identified and provided a solution for a global issue. 
+---
 - In 2023, we were awarded 3rd for our solution and 6th in our robot's performance
 - In 2024, we received 2nd for our solution and 3rd for robot performance, allowing us to advance to the State competition
-In 2024 specifically, we were the first in our regional competition to switch to python instead of conventional block programming to instruct our robot.
+- In 2024 specifically, we were the first in our regional competition to switch to python instead of conventional block programming to instruct our robot.
