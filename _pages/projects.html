@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "About Me"
+layout: archive
+title: "Projects"
+permalink: /projects/
 author_profile: true
-redirect_from: 
-  - /projects/
-  - /projects.html
 ---
 
 2026 – DigiScribe
@@ -25,3 +23,12 @@ redirect_from:
 - Inputted user data is used to predict future hours slept
 - Built a Python-based regression model using numpy
 - Applied and evaluated both linear and polynomial regressions to estimate sleep duration from screen usage
+
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
