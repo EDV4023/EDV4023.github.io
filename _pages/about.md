@@ -20,4 +20,19 @@ Additionally, another objective in my projects are the needs of my fellow studen
 
 Experience
 ===
-I have been programming for 5 years, predominantly in Python. I have employed my programming skills in a combination of in-person and online hackathons such as Hack the Ram 2022 & 2024, Hack NA 2024, Shady Hacks 2024, EMP Hackfest 2025, and MEGA Hackathon 2025; I was awarded the Impact Award in Shady Hacks 2024 and 3rd place in Hack the Ram 2024. In 2022-2025, I completed 4 different science fair projects in PRSEF, PJAS, and DRSEF. In 2022, I was awarded 1st place in the junior physics category at PRSEF; in 2023: 2nd place in the senior physics category at PRSEF and 1st Place at PJAS; and in 2024 3rd place in the senior behavioral science category at and 1st in PJAS, as well as a perfect score and the director's award—the highest possible distinctions. In my 2024 & 2025 projects, I specifically focused on computer science and machine learning: in 2024, my project involved the use of python to construct a model to predict sleep length based on screen usage, and in 2025, I utilized CNN architecture to accurately predict deepfakes.  In 2023 & 2024, I was the captain of my FLL robotics team in which my team and I constructed a robot to complete tasks in an allotted time and identified and provided a solution for a global issue. In 2023, we were awarded 3rd for our solution and 6th in our robot's performance, in 2024, we received 2nd for our solution and 3rd for robot performance, allowing us to advance to the State competition. In 2024 specifically, we used python instead of conventional block programming to instruct our robot.
+I have been programming for 5 years, predominantly in Python. I have employed my programming skills in a combination of in-person and online hackathons such as Hack the Ram 2022 & 2024, Hack NA 2024, Shady Hacks 2024, EMP Hackfest 2025, MEGA Hackathon 2025, and EMP WildHacks 2026.
+I was honored with... 
+- The Best Presentation & Idea award in WildHacks 2026. 
+- The Impact Award in Shady Hacks 2024
+- 3rd place in Hack the Ram 2024
+In 2022-2025, I completed 4 different science fair projects in PRSEF, PJAS, and DRSEF. 
+- In 2022, I was awarded 1st place in the junior physics category at PRSEF
+- In 2023: 2nd place in the senior physics category at PRSEF and 1st Place at PJAS
+- In 2024 3rd place in the senior behavioral science category and 1st in PJAS, as well as a perfect score and the director's award, the highest possible distinction. 
+In my 2024 & 2025 projects, I specifically focused on computer science and machine learning:
+- In 2024, my project involved the use of python to construct a model to predict sleep length based on screen usage
+- In 2025, I utilized CNN architecture to accurately predict deepfakes. 
+In 2023 & 2024, I was the captain of my FLL robotics team in which my team and I constructed a robot to complete tasks in an allotted time and identified and provided a solution for a global issue. 
+- In 2023, we were awarded 3rd for our solution and 6th in our robot's performance
+- In 2024, we received 2nd for our solution and 3rd for robot performance, allowing us to advance to the State competition
+In 2024 specifically, we were the first in our regional competition to switch to python instead of conventional block programming to instruct our robot.
