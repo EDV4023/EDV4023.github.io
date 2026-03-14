@@ -21,7 +21,9 @@ Additionally, another objective in my projects are the needs of my fellow studen
 Experience
 ===
 I have been programming for 5 years, predominantly in Python. I have employed my programming skills in a combination of in-person and online hackathons such as Hack the Ram 2022 & 2024, Hack NA 2024, Shady Hacks 2024, EMP Hackfest 2025, MEGA Hackathon 2025, and EMP WildHacks 2026.
-I was honored with... 
+
+In 2024-2026, I was honored with several awards for my projects in Hackathons.
+--- 
 - The Best Presentation & Idea award in WildHacks 2026. 
 - The Impact Award in Shady Hacks 2024
 - 3rd place in Hack the Ram 2024
