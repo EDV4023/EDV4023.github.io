@@ -12,7 +12,4 @@ main:
     url: /projects/   
 
   - title: "Skills"
-    url: "/skills/"
-
-  - title: "Awards"
-    url: /awards/    
+    url: "/skills/" 
