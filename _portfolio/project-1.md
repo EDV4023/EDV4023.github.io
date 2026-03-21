@@ -9,4 +9,5 @@ Users can take photos of plants or animals they see around them and upload it to
 Check It Out
 ---
 [Github Repository](https://github.com/EDV4023/BloomWatch)
+
 [Try it Out](https://bloomwatch.streamlit.app/)

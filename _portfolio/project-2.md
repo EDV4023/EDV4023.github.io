@@ -9,4 +9,5 @@ The objective of this engineering project was to design and evaluate a software 
 Check It Out
 ---
 [Github Repository](https://github.com/EDV4023/DigiScribe)
+
 [Try it Out](https://digiscribe.streamlit.app/)

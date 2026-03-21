@@ -11,6 +11,12 @@ Hello, my name is Ethan. I am a high school student from Prosper High. For 4 yea
 
 The main reason I enjoy creating these AI ML models are it's abilities to solve real world problems, its immediate impact, and making everyone's life's better. AI is a powerful tool for automation. AI opens the door to create interesting and innovative projects that benefit the society while quenching my passion for computer science. I wish to learn further about different types of models and their use cases so that the I can make an immediate impact.
 
+Skills
+===
+\- **Interests:** Machine Learning, Data Science, AI
+\- **Languages:** Python and Java
+\- **Libraries:** Tensorflow, Keras, Numpy, Matplotlib, Pandas, OpenCV, BeautifulSoup, Streamlit, Requests, Google's Generative AI API
+\- **Tools:** GitHub, Firebase, Kaggle, Visual Studios Code
 
 Objectives
 ===
