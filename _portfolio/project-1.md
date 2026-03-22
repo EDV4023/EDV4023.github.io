@@ -1,6 +1,6 @@
 ---
 title: "Bloomwatch"
-excerpt: "A community driven conservation platform that transforms everyday wildlife observation into environmental benefit and the promotion of native ecosystems.<br/><img src='/images/500x300.png'>"
+excerpt: "A community driven conservation platform that transforms everyday wildlife observation into environmental benefit and the promotion of native ecosystems.<br/><img src='/images/bloomwatch.jpg'>"
 collection: projects
 ---
 

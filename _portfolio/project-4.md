@@ -1,6 +1,6 @@
 ---
 title: "Expert Exports"
-excerpt: "This website attempts to solve the uneven development of wealthy and poor states by using a website that recommends a developing country to another developing country based on export and import similarity.<br/><img src='/images/500x300.png'>"
+excerpt: "This website attempts to solve the uneven development of wealthy and poor states by using a website that recommends a developing country to another developing country based on export and import similarity.<br/><img src='/images/expert-exports.png'>"
 collection: projects
 ---
 

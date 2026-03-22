@@ -1,6 +1,6 @@
 ---
 title: "Cyber Quiz AI"
-excerpt: "Expose people to crucial digital safety and cybersecurity skills and information to safeguard them from misinformation and detrimental scams.<br/><img src='/images/500x300.png'>"
+excerpt: "Expose people to crucial digital safety and cybersecurity skills and information to safeguard them from misinformation and detrimental scams.<br/><img src='/images/cyberquizai.png'>"
 collection: projects
 ---
 

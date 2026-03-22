@@ -1,6 +1,6 @@
 ---
 title: "DigiScribe"
-excerpt: "Agentic software that transcribes text found in images into text/markdown files as well as student tools for notes (Based on Cornell Notes) and audio teaching tools.<br/><img src='/images/500x300.png'>"
+excerpt: "Agentic software that transcribes text found in images into text/markdown files as well as student tools for notes (Based on Cornell Notes) and audio teaching tools.<br/><img src='/images/DigiScribe_Logo.png'>"
 collection: projects
 ---
 

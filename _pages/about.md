@@ -13,10 +13,10 @@ The main reason I enjoy creating these AI ML models are it's abilities to solve 
 
 Skills
 ===
-\- **Interests:** Machine Learning, Data Science, AI
-\- **Languages:** Python and Java
-\- **Libraries:** Tensorflow, Keras, Numpy, Matplotlib, Pandas, OpenCV, BeautifulSoup, Streamlit, Requests, Google's Generative AI API
-\- **Tools:** GitHub, Firebase, Kaggle, Visual Studios Code
+\- **Interests:** Machine Learning, Data Science, AI  
+\- **Languages:** Python and Java  
+\- **Libraries:** Tensorflow, Keras, Numpy, Matplotlib, Pandas, OpenCV, BeautifulSoup, Streamlit, Requests, Google's Generative AI API  
+\- **Tools:** GitHub, Firebase, Kaggle, Visual Studios Code  
 
 Objectives
 ===

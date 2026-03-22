@@ -1,6 +1,6 @@
 ---
 title: "ArtiFace"
-excerpt: "An innovative CNN framework for deepfake classification to prevent the loss of personal information. <br/><img src='/images/500x300.png'>"
+excerpt: "An innovative CNN framework for deepfake classification to prevent the loss of personal information. <br/><img src='/images/artiface.png'>"
 collection: projects
 ---
 
