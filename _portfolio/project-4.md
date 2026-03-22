@@ -8,6 +8,5 @@ The website utilizes export and import data about developing countries to recomm
 
 Check It Out
 ---
-[Github Repository](https://github.com/EDV4023/Expert-Export)
-
+[Github Repository](https://github.com/EDV4023/Expert-Export)  
 [Try it Out](https://expert-exports.streamlit.app/)
