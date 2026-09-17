@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+> *"All we have to decide is what to do with the time that is given us."* — Gandalf
+
 Hello, my name is Ethan. I am a high school student from Prosper High. For 4 years I have always known that my passion lies within the field of computer science. In the past three years, I have delved into the world of data science, machine learning, and artificial intelligence, fields that continue to inspire me. I believe that AI/ML is my vocation, and I want to continue to explore concepts in the field.
 
 The main reason I enjoy creating these AI ML models are it's abilities to solve real world problems, its immediate impact, and making everyone's life's better. AI is a powerful tool for automation. AI opens the door to create interesting and innovative projects that benefit the society while quenching my passion for computer science. I wish to learn further about different types of models and their use cases so that the I can make an immediate impact.
