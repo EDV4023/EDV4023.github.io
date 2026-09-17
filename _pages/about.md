@@ -26,6 +26,10 @@ I wish to improve conditions in underdeveloped areas around the world. Through c
 
 Additionally, another objective in my projects are the needs of my fellow students. As a high school student myself, I understand the issues many of my peers encounter from handwritten notes and complex topics. Assistive tools such as automatic notes and interactive study tools work for the betterment of many problems faced by young learners.  
 
+## Career Forecast
+
+I am passionate about pursuing a career as an AI Engineer or Machine Learning Engineer, where I can build AI and machine-learning systems for real-world software applications. In this role, my goal is to connect pre-existing AI models to software applications, analyze and clean data, build ML pipelines, and improve overall model performance. While the high school courses required for this pathway can vary, it is generally in the student's best interest to take mathematical and computer-focused classes such as AP Calculus, AP Statistics, AP Computer Science Principles, and AP Computer Science. In order to transition from college into this field, my goal is to attain a B.S. in Computer Science with an AI concentration, which is a common path along with Data Science or Software Engineering. To further propel me into the field, it would be highly beneficial to obtain certifications such as the AWS Certified Machine Learning, Google Professional ML Engineer, and TensorFlow Developer Certificate, as well as attend professional organization events like the YOU x AI Summit in Waco on September 12, 2026, to learn current information and meet potential mentors. The starting salary for this occupation typically ranges from $90,000 to $135,000, with the potential to reach $250,000 to $400,000 after about 10 years of experience. The field has a strong outlook; the U.S. Bureau of Labor Statistics predicts a 26% growth in computer research jobs through 2033, providing ample opportunities nationwide.
+
 ## Experience
 
 I have been programming for 5 years, predominantly in Python. I have employed my programming skills in a combination of in-person and online hackathons such as Hack the Ram 2022 & 2024, Hack NA 2024, Shady Hacks 2024, EMP Hackfest 2025, MEGA Hackathon 2025, and EMP WildHacks 2026.
@@ -35,15 +39,16 @@ I have been programming for 5 years, predominantly in Python. I have employed my
 - The Impact Award in Shady Hacks 2024
 - 3rd place in Hack the Ram 2024
 
-### Science Fair Projects (2022-2025)
-I completed 4 different science fair projects in PRSEF, PJAS, and DRSEF.
+### Science Fair Projects (2022-2026)
+I completed 5 different science fair projects in PRSEF, PJAS, and DRSEF.
 - In 2022, I was awarded 1st place in the junior physics category at PRSEF
 - In 2023: 2nd place in the senior physics category at PRSEF and 1st Place at PJAS
 - In 2024 3rd place in the senior behavioral science category and 1st in PJAS, as well as a perfect score and the director's award, the highest possible distinction. 
 
-In my 2024 & 2025 projects, I specifically focused on computer science and machine learning:
+In my 2024, 2025, and 2026 projects, I specifically focused on computer science and machine learning:
 - In 2024, my project involved the use of python to construct a model to predict sleep length based on screen usage
 - In 2025, I utilized CNN architecture to accurately predict deepfakes. 
+- In 2026, I developed DigiScribe, an agentic software that transcribes text found in images into text/markdown files as well as student tools for notes (Based on Cornell Notes) and audio teaching tools.
 
 ### FLL Robotics Captain (2023-2024)
 I was the captain of my FLL robotics team in which my team and I constructed a robot to complete tasks in an allotted time and identified and provided a solution for a global issue. 
